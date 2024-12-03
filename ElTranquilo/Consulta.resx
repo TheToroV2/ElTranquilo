@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lbNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btNuevaConsulta.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btConsultar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbID.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="&gt;&gt;txPrecio.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="lbPrecio.Size" type="System.Drawing.Size, System.Drawing">
+    <value>52, 16</value>
+  </data>
+  <data name="btNuevaConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;gbBusqueda.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbConsulta.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Lucida Fax, 12pt, style=Bold</value>
+  </data>
+  <data name="gbBusqueda.Text" xml:space="preserve">
+    <value>Busqueda</value>
+  </data>
+  <data name="btNuevaConsulta.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;gpConsulta.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="txProveedor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 125</value>
+  </data>
+  <data name="&gt;&gt;lbPrecio.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btConsultar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>607, 51</value>
+  </data>
+  <data name="&gt;&gt;btConsultar.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lbProveedor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 131</value>
+  </data>
+  <data name="txID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 22</value>
+  </data>
+  <data name="&gt;&gt;btNuevaConsulta.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;gpConsulta.Name" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="btRegresar.Text" xml:space="preserve">
+    <value>Regresar</value>
+  </data>
+  <data name="&gt;&gt;lbConsulta.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txCodigo.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lbCodigo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 35</value>
+  </data>
+  <data name="&gt;&gt;lbNombre.Name" xml:space="preserve">
+    <value>lbNombre</value>
+  </data>
+  <data name="&gt;&gt;lbID.Name" xml:space="preserve">
+    <value>lbID</value>
+  </data>
+  <data name="txPrecio.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 63</value>
+  </data>
+  <data name="&gt;&gt;lbNombre.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lbPrecio.Text" xml:space="preserve">
+    <value>Precio: </value>
+  </data>
+  <data name="txProveedor.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lbPrecio.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="lbProveedor.Text" xml:space="preserve">
+    <value>Proveedor: </value>
+  </data>
+  <data name="&gt;&gt;gpConsulta.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txNombre.Parent" xml:space="preserve">
+    <value>gbBusqueda</value>
+  </data>
+  <data name="lbStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 99</value>
+  </data>
+  <data name="lbStock.Text" xml:space="preserve">
+    <value>Stock: </value>
+  </data>
+  <data name="&gt;&gt;txProveedor.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lbConsulta.Name" xml:space="preserve">
+    <value>lbConsulta</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Consulta</value>
+  </data>
+  <data name="&gt;&gt;btConsultar.Name" xml:space="preserve">
+    <value>btConsultar</value>
+  </data>
+  <data name="gbBusqueda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 51</value>
+  </data>
+  <data name="&gt;&gt;txProveedor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbID.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="txNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>310, 38</value>
+  </data>
+  <data name="&gt;&gt;txProveedor.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="txStock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 22</value>
+  </data>
+  <data name="&gt;&gt;lbCodigo.Parent" xml:space="preserve">
+    <value>gbBusqueda</value>
+  </data>
+  <data name="&gt;&gt;txPrecio.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lbCodigo.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="gpConsulta.Text" xml:space="preserve">
+    <value>Consulta</value>
+  </data>
+  <data name="btRegresar.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txCodigo.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;lbStock.Name" xml:space="preserve">
+    <value>lbStock</value>
+  </data>
+  <data name="&gt;&gt;lbProveedor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txID.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="&gt;&gt;lbCodigo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbStock.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;lbStock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txID.Name" xml:space="preserve">
+    <value>txID</value>
+  </data>
+  <data name="lbID.Text" xml:space="preserve">
+    <value>ID: </value>
+  </data>
+  <data name="btNuevaConsulta.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;lbStock.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbNombre.Parent" xml:space="preserve">
+    <value>gbBusqueda</value>
+  </data>
+  <data name="lbCodigo.Text" xml:space="preserve">
+    <value>Código: </value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Consulta</value>
+  </data>
+  <data name="btConsultar.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lbCodigo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 16</value>
+  </data>
+  <data name="btRegresar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>607, 340</value>
+  </data>
+  <data name="&gt;&gt;txCodigo.Name" xml:space="preserve">
+    <value>txCodigo</value>
+  </data>
+  <data name="&gt;&gt;txNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txStock.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;gbBusqueda.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="btRegresar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 51</value>
+  </data>
+  <data name="&gt;&gt;lbPrecio.Name" xml:space="preserve">
+    <value>lbPrecio</value>
+  </data>
+  <data name="lbConsulta.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;lbProveedor.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;gbBusqueda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txProveedor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 22</value>
+  </data>
+  <data name="&gt;&gt;txStock.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 91</value>
+  </data>
+  <data name="txID.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btConsultar.Text" xml:space="preserve">
+    <value>Consultar</value>
+  </data>
+  <data name="&gt;&gt;btNuevaConsulta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btNuevaConsulta.Name" xml:space="preserve">
+    <value>btNuevaConsulta</value>
+  </data>
+  <data name="&gt;&gt;txPrecio.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbStock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 16</value>
+  </data>
+  <data name="lbConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>219, 23</value>
+  </data>
+  <data name="&gt;&gt;lbPrecio.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbProveedor.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="gpConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>447, 212</value>
+  </data>
+  <data name="btNuevaConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>607, 137</value>
+  </data>
+  <data name="&gt;&gt;lbNombre.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbNombre.Text" xml:space="preserve">
+    <value>Nombre: </value>
+  </data>
+  <data name="&gt;&gt;lbCodigo.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txID.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txCodigo.Parent" xml:space="preserve">
+    <value>gbBusqueda</value>
+  </data>
+  <data name="&gt;&gt;lbConsulta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btRegresar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbConsulta.Text" xml:space="preserve">
+    <value>Consultar Producto</value>
+  </data>
+  <data name="&gt;&gt;lbProveedor.Name" xml:space="preserve">
+    <value>lbProveedor</value>
+  </data>
+  <data name="&gt;&gt;btRegresar.Name" xml:space="preserve">
+    <value>btRegresar</value>
+  </data>
+  <data name="txID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>94, 32</value>
+  </data>
+  <data name="lbStock.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbID.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 16</value>
+  </data>
+  <data name="&gt;&gt;gpConsulta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txID.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btRegresar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbID.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 38</value>
+  </data>
+  <data name="&gt;&gt;btRegresar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lbProveedor.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lbPrecio.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 69</value>
+  </data>
+  <data name="&gt;&gt;txPrecio.Name" xml:space="preserve">
+    <value>txPrecio</value>
+  </data>
+  <data name="&gt;&gt;lbCodigo.Name" xml:space="preserve">
+    <value>lbCodigo</value>
+  </data>
+  <data name="gpConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="txCodigo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>79, 35</value>
+  </data>
+  <data name="lbProveedor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>77, 16</value>
+  </data>
+  <data name="txPrecio.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 22</value>
+  </data>
+  <data name="&gt;&gt;lbConsulta.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txStock.Name" xml:space="preserve">
+    <value>txStock</value>
+  </data>
+  <data name="lbConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>302, 9</value>
+  </data>
+  <data name="txPrecio.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lbCodigo.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txNombre.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;lbStock.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="btConsultar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 51</value>
+  </data>
+  <data name="btNuevaConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>124, 51</value>
+  </data>
+  <data name="lbNombre.Location" type="System.Drawing.Point, System.Drawing">
+    <value>242, 38</value>
+  </data>
+  <data name="txNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>120, 22</value>
+  </data>
+  <data name="gbBusqueda.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txNombre.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txStock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="lbConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txNombre.Name" xml:space="preserve">
+    <value>txNombre</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txProveedor.Name" xml:space="preserve">
+    <value>txProveedor</value>
+  </data>
+  <data name="btNuevaConsulta.Text" xml:space="preserve">
+    <value>Nueva Consulta</value>
+  </data>
+  <data name="&gt;&gt;txStock.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="gbBusqueda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>447, 100</value>
+  </data>
+  <data name="btRegresar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="&gt;&gt;txCodigo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lbID.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="gpConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 179</value>
+  </data>
+  <data name="gpConsulta.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="lbNombre.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 16</value>
+  </data>
+  <data name="txCodigo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 22</value>
+  </data>
+  <data name="&gt;&gt;lbProveedor.Parent" xml:space="preserve">
+    <value>gpConsulta</value>
+  </data>
+  <data name="btConsultar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 7.8pt, style=Bold</value>
+  </data>
+  <data name="lbID.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lbPrecio.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btConsultar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="lbNombre.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;gbBusqueda.Name" xml:space="preserve">
+    <value>gbBusqueda</value>
+  </data>
+  <data name="lbPrecio.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>es-CO</value>
+  </metadata>
+</root>

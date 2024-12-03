@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="EltranquiloAPI\.vs\EltranquiloAPI.csproj.dtbcache.json" />
+    <Content Include="EltranquiloAPI\.vs\EltranquiloAPI\v17\DocumentLayout.json" />
+    <Content Include="EltranquiloAPI\Conector\.vs\Conector.csproj.dtbcache.json" />
+    <Content Include="EltranquiloAPI\EltranquiloAPI\.vs\EltranquiloAPI.csproj.dtbcache.json" />
+    <Content Include="EltranquiloAPI\EltranquiloAPI\.vs\EltranquiloAPI\v17\DocumentLayout.json" />
+    <Content Include="EltranquiloAPI\EltranquiloAPI\Conector\.vs\Conector.csproj.dtbcache.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="EltranquiloAPI\.vs\EltranquiloAPI\config\applicationhost.config" />
+    <None Include="EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\3358105c-035e-40a1-828b-469e517f9d36.vsidx" />
+    <None Include="EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\41bb1475-8c92-4676-abca-6ed58d287165.vsidx" />
+    <None Include="EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\96c16d01-ca88-4b98-a0b0-572519211940.vsidx" />
+    <None Include="EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\dbde01e7-d4e7-46df-ac80-3435ea397219.vsidx" />
+    <None Include="EltranquiloAPI\Conector\Conector.csproj" />
+    <None Include="EltranquiloAPI\EltranquiloAPI.csproj" />
+    <None Include="EltranquiloAPI\EltranquiloAPI.csproj.user" />
+    <None Include="EltranquiloAPI\EltranquiloAPI.sln" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\.vs\EltranquiloAPI\config\applicationhost.config" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\d7f08da6-a69f-467e-aa6d-2a2aba544736.vsidx" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\da86e864-9f01-4c4d-a757-8d077c0a2e56.vsidx" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\.vs\EltranquiloAPI\FileContentIndex\e84fb974-dc21-4579-8010-3ebd1620aeb4.vsidx" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\Conector\Conector.csproj" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\EltranquiloAPI.csproj" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\EltranquiloAPI.csproj.user" />
+    <None Include="EltranquiloAPI\EltranquiloAPI\EltranquiloAPI.sln" />
+    <None Include="EltranquiloAPI\packages.config" />
+    <None Include="EltranquiloAPI\Web.config" />
+    <None Include="EltranquiloAPI\Web.Debug.config" />
+    <None Include="EltranquiloAPI\Web.Release.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="EltranquiloAPI\App_Data\" />
+    <Folder Include="EltranquiloAPI\Conector\bin\Release\" />
+    <Folder Include="EltranquiloAPI\EltranquiloAPI\App_Data\" />
+    <Folder Include="EltranquiloAPI\EltranquiloAPI\obj\Debug\TempPE\" />
+    <Folder Include="EltranquiloAPI\obj\Debug\TempPE\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="EltranquiloAPI\Conector\ElTranquiloDB.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ElTranquiloDB.Context.cs</LastGenOutput>
+    </None>
+    <None Update="EltranquiloAPI\Conector\ElTranquiloDB.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ElTranquiloDB.cs</LastGenOutput>
+    </None>
+    <None Update="EltranquiloAPI\EltranquiloAPI\Conector\ElTranquiloDB.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ElTranquiloDB.Context.cs</LastGenOutput>
+    </None>
+    <None Update="EltranquiloAPI\EltranquiloAPI\Conector\ElTranquiloDB.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ElTranquiloDB.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="EltranquiloAPI\Conector\ElTranquiloDB.Context.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ElTranquiloDB.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Update="EltranquiloAPI\Conector\ElTranquiloDB.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ElTranquiloDB.tt</DependentUpon>
+    </Compile>
+    <Compile Update="EltranquiloAPI\EltranquiloAPI\Conector\ElTranquiloDB.Context.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ElTranquiloDB.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Update="EltranquiloAPI\EltranquiloAPI\Conector\ElTranquiloDB.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ElTranquiloDB.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+</Project>

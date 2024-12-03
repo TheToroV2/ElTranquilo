@@ -1,0 +1,12 @@
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\Conector.dll.config
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\Conector.dll
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\Conector.pdb
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\EntityFramework.dll
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\EntityFramework.xml
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\obj\Debug\Conector.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\obj\Debug\Conector.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\obj\Debug\Conector.csproj.Up2Date
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\obj\Debug\Conector.dll
+C:\Users\Samuel\Desktop\EltranquiloAPI\Conector\obj\Debug\Conector.pdb

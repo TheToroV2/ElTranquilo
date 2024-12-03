@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTranquilo", "ElTranquilo\ElTranquilo.csproj", "{82F9B2FB-3A20-46FC-A596-33833C96D7A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElTranquiloAPI", "ElTranquiloAPI\ElTranquiloAPI.csproj", "{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F9B2FB-3A20-46FC-A596-33833C96D7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F9B2FB-3A20-46FC-A596-33833C96D7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F9B2FB-3A20-46FC-A596-33833C96D7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F9B2FB-3A20-46FC-A596-33833C96D7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC748D0-4638-41CD-9B90-41DB08EF0338}
+	EndGlobalSection
+EndGlobal

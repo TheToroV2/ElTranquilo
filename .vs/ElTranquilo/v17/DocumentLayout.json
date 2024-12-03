@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}|ElTranquiloAPI\\ElTranquiloAPI.csproj|c:\\users\\samuel\\desktop\\software classes\\eltranquilo\\eltranquiloapi\\eltranquiloapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6961584A-DB76-4D64-A7A6-B5385EBCC6DF}|ElTranquiloAPI\\ElTranquiloAPI.csproj|solutionrelative:eltranquiloapi\\eltranquiloapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|c:\\users\\samuel\\desktop\\software classes\\eltranquilo\\eltranquilo\\actualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\actualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\ingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\ingresar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\eltranquilo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F9B2FB-3A20-46FC-A596-33833C96D7A3}|ElTranquilo\\ElTranquilo.csproj|solutionrelative:eltranquilo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElTranquiloAPI",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquiloAPI\\ElTranquiloAPI.csproj",
+              "RelativeDocumentMoniker": "ElTranquiloAPI\\ElTranquiloAPI.csproj",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquiloAPI\\ElTranquiloAPI.csproj",
+              "RelativeToolTip": "ElTranquiloAPI\\ElTranquiloAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T13:58:27.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Actualizar.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Actualizar.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Actualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElTranquilo\\Actualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:54:17.587Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBapi.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\DBapi.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\DBapi.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\DBapi.cs",
+              "RelativeToolTip": "ElTranquilo\\DBapi.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:56:15.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Program.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Program.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Program.cs",
+              "RelativeToolTip": "ElTranquilo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:44:40.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingresar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Ingresar.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Ingresar.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Ingresar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElTranquilo\\Ingresar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:08:02.309Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consulta.cs [Dise\u00F1o - Espa\u00F1ol (Colombia)]",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Consulta.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\ElTranquilo\\ElTranquilo\\Consulta.cs [Dise\u00F1o - Espa\u00F1ol (Colombia)]",
+              "RelativeToolTip": "..\\..\\ElTranquilo\\ElTranquilo\\Consulta.cs [Dise\u00F1o - Espa\u00F1ol (Colombia)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:46:45.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Consulta.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Consulta.cs",
+              "RelativeToolTip": "ElTranquilo\\Consulta.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIAxwDEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T19:46:49.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Login.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Login.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElTranquilo\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:59:47.798Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Menu.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Menu.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ElTranquilo\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:12:09.363Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Eliminar.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Eliminar.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Eliminar.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Eliminar.cs",
+              "RelativeToolTip": "ElTranquilo\\Eliminar.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:20:53.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Login.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Login.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Login.cs",
+              "RelativeToolTip": "ElTranquilo\\Login.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:59:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Usuario.cs",
+              "RelativeDocumentMoniker": "ElTranquilo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\ElTranquilo\\ElTranquilo\\Usuario.cs",
+              "RelativeToolTip": "ElTranquilo\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:47:47.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\eltranquilodb.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\eltranquilodb.edmx.diagram||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\eltranquilodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\eltranquilodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\eltranquilodb.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\eltranquilodb.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\eltranquilodb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\eltranquilodb.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\eltranquiloapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|solutionrelative:eltranquiloapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\eltranquiloapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|solutionrelative:eltranquiloapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\eltranquilodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\eltranquilodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\eltranquiloapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|solutionrelative:eltranquiloapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|c:\\users\\samuel\\desktop\\software classes\\eltranquiloapi\\eltranquiloapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421DCD79-1BDD-4F66-B251-0056FD178C0F}|EltranquiloAPI\\EltranquiloAPI.csproj|solutionrelative:eltranquiloapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\conector\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3BEB2FF-92CB-4541-9E92-08BF0513D3A8}|Conector\\Conector.csproj|solutionrelative:conector\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Samuel\\Desktop\\EltranquiloAPI\\EltranquiloAPI\\Models\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "EltranquiloAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "EltranquiloAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:03:54.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Conector\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\Usuarios.cs",
+              "RelativeToolTip": "Conector\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:03:07.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ElTranquiloDB.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.cs",
+              "RelativeDocumentMoniker": "Conector\\ElTranquiloDB.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.cs",
+              "RelativeToolTip": "Conector\\ElTranquiloDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:03:02.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Global.asax.cs",
+              "RelativeDocumentMoniker": "EltranquiloAPI\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Global.asax.cs",
+              "RelativeToolTip": "EltranquiloAPI\\Global.asax.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:43:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Web.config",
+              "RelativeDocumentMoniker": "EltranquiloAPI\\Web.config",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Web.config",
+              "RelativeToolTip": "EltranquiloAPI\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T19:27:06.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "EltranquiloAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\EltranquiloAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "EltranquiloAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:36:14.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\EltranquiloAPI\\EltranquiloAPI\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "..\\..\\EltranquiloAPI\\EltranquiloAPI\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\EltranquiloAPI\\EltranquiloAPI\\Models\\Usuarios.cs",
+              "RelativeToolTip": "..\\..\\EltranquiloAPI\\EltranquiloAPI\\Models\\Usuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:27:55.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElTranquiloDB.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.edmx",
+              "RelativeDocumentMoniker": "Conector\\ElTranquiloDB.edmx",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\EltranquiloAPI\\Conector\\ElTranquiloDB.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\EltranquiloAPI\\Conector\\ElTranquiloDB.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-05-24T19:16:35.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\App.Config",
+              "RelativeDocumentMoniker": "Conector\\App.Config",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\App.Config",
+              "RelativeToolTip": "Conector\\App.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T19:26:24.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\packages.config",
+              "RelativeDocumentMoniker": "Conector\\packages.config",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\packages.config",
+              "RelativeToolTip": "Conector\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-24T19:26:22.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElTranquiloDB.edmx.diagram",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.edmx.diagram",
+              "RelativeDocumentMoniker": "Conector\\ElTranquiloDB.edmx.diagram",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.edmx.diagram",
+              "RelativeToolTip": "Conector\\ElTranquiloDB.edmx.diagram",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T20:24:49.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElTranquiloDB.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.Designer.cs",
+              "RelativeDocumentMoniker": "Conector\\ElTranquiloDB.Designer.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.Designer.cs",
+              "RelativeToolTip": "Conector\\ElTranquiloDB.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:24:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElTranquiloDB.Context.tt",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.Context.tt",
+              "RelativeDocumentMoniker": "Conector\\ElTranquiloDB.Context.tt",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Software Classes\\EltranquiloAPI\\Conector\\ElTranquiloDB.Context.tt",
+              "RelativeToolTip": "Conector\\ElTranquiloDB.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-24T20:24:43.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

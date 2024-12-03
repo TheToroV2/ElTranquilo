@@ -1,0 +1,92 @@
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\ElTranquilo.exe.config
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\ElTranquilo.exe
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\ElTranquilo.pdb
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Properties.Resources.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.exe
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.pdb
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Consulta.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Login.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Menu.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\ko-KP\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Consulta.ko-KP.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ko-KP\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Eliminar.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Ingresar.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Actualizar.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\es-CO\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Consulta.es-CO.resources
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\es-CO\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\RestSharp.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Buffers.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Memory.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Json.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.ValueTuple.dll
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\RestSharp.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Buffers.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Memory.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Json.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\bin\Debug\System.ValueTuple.xml
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.exe.config
+C:\Users\Samuel\Desktop\ElTranquilo\ElTranquilo\obj\Debug\ElTranqu.CE752E0F.Up2Date
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\ElTranquilo.exe.config
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\ElTranquilo.exe
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\ElTranquilo.pdb
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\es-CO\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\ko-KP\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\RestSharp.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Buffers.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Memory.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Json.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.ValueTuple.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\RestSharp.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Buffers.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Memory.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Text.Json.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\bin\Debug\System.ValueTuple.xml
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.exe.config
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Actualizar.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Consulta.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Eliminar.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Ingresar.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Login.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Menu.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Properties.Resources.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Consulta.es-CO.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.Consulta.ko-KP.resources
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.GenerateResource.cache
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\es-CO\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ko-KP\ElTranquilo.resources.dll
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranqu.CE752E0F.Up2Date
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.exe
+C:\Users\Samuel\Desktop\Software Classes\ElTranquilo\ElTranquilo\obj\Debug\ElTranquilo.pdb
